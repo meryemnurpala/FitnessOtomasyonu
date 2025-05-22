@@ -102,5 +102,5 @@ npm start
 Bu proje [MIT lisansı](LICENSE) altında lisanslanmıştır.
 
 ## İletişim
-Proje sahibi: Meryem Nur Pala
-E-posta: meryemnurpala@gmail.com 
+Proje sahipleri: Meryemnur Pala,Mahir Erol
+E-posta: meryemnur6969@gmail.com ,mahirerol13@gmail.com
