@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Genel Sayfa Ayarları */
+body {
+  @apply bg-gray-100 text-gray-900;
+}
+
+/* Linkler İçin Hover Efekti */
+a {
+  @apply text-blue-500 hover:text-blue-700 transition-all;
+}
+
+/* Konteyner Merkezi Hizalama */
+.container {
+  @apply max-w-4xl mx-auto p-6;
+}

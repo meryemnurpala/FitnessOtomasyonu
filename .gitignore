@@ -1,0 +1,34 @@
+# Frontend
+node_modules/
+/fitness-front/fitness-otomasyon/build
+/fitness-front/fitness-otomasyon/.env
+/fitness-front/fitness-otomasyon/.env.local
+/fitness-front/fitness-otomasyon/.env.development.local
+/fitness-front/fitness-otomasyon/.env.test.local
+/fitness-front/fitness-otomasyon/.env.production.local
+/fitness-front/fitness-otomasyon/npm-debug.log*
+/fitness-front/fitness-otomasyon/yarn-debug.log*
+/fitness-front/fitness-otomasyon/yarn-error.log*
+
+# Backend
+HELP.md
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+/fitness-back/.env
+/fitness-back/application-dev.properties
+/fitness-back/application-prod.properties
+
+# IDE
+.idea/
+*.iws
+*.iml
+*.ipr
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db 
