@@ -104,3 +104,17 @@ Bu proje [MIT lisansı](LICENSE) altında lisanslanmıştır.
 ## İletişim
 Proje sahipleri: Meryemnur Pala,Mahir Erol
 E-posta: meryemnur6969@gmail.com ,mahirerol13@gmail.com
+
+Sistem Görselleri
+![Ekran görüntüsü 2025-05-22 142108](https://github.com/user-attachments/assets/7388a4e8-bd4b-4a77-9c83-459f6ad18761)
+
+![Ekran görüntüsü 2025-05-22 142121](https://github.com/user-attachments/assets/c8e59bb1-e6ff-4c9c-ad0d-f9be360a749b)
+
+![Ekran görüntüsü 2025-05-22 142142](https://github.com/user-attachments/assets/29546bb1-ebba-43b8-8733-2b3e9db30aa4)
+
+![Ekran görüntüsü 2025-05-22 142204](https://github.com/user-attachments/assets/99a41a51-2fa1-4478-96bd-18da6f40968a)
+
+![Ekran görüntüsü 2025-05-22 142216](https://github.com/user-attachments/assets/61e956c7-dc52-418b-88fc-7b850198048d)
+
+
+
