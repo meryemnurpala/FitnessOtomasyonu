@@ -51,7 +51,7 @@ Database: PostgreSQL
 
 1. Projeyi klonlayın:
 ```bash
-git clone [proje-url]
+git clone https://github.com/meryemnurpala/FitnessOtomasyonu.git
 ```
 
 2. Frontend bağımlılıklarını yükleyin:
@@ -98,7 +98,9 @@ npm start
 4. Branch'inizi push edin (`git push origin feature/yeniOzellik`)
 5. Pull Request oluşturun
 
+## Lisans
+Bu proje [MIT lisansı](LICENSE) altında lisanslanmıştır.
 
 ## İletişim
-Proje sahibi: Meryemnur Pala,Mahir Erol
-E-posta: meryemnur6969@gmail.com, mahirerol13@gmail.com 
+Proje sahibi: Meryem Nur Pala
+E-posta: meryemnurpala@gmail.com 
